@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<turtleList>
+    <turtles>
+        <id>0</id>
+        <name>Бобик</name>
+        <type>Кожистая</type>
+        <description>Черепашка Бобик - очень милая черепашка</description>
+        <color>Голубой</color>
+        <age>55</age>
+        <weight>20</weight>
+        <isMale>true</isMale>
+    </turtles>
+    <turtles>
+        <id>1</id>
+        <name>Гена</name>
+        <type>Водная</type>
+        <description>Среда обитания водная</description>
+        <color>Серый</color>
+        <age>2</age>
+        <weight>2</weight>
+        <isMale>true</isMale>
+    </turtles>
+    <turtles>
+        <id>2</id>
+        <name>Жора</name>
+        <type>Дальневосточная</type>
+        <description>Очень красивая дальневосточная черепаха</description>
+        <color>Красные пятнышки в области ушей, зеленые полосы на лапах.</color>
+        <age>20</age>
+        <weight>10.0</weight>
+        <isMale>true</isMale>
+    </turtles>
+</turtleList>
